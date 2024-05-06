@@ -1,4 +1,3 @@
-Lexical analysis, also known as lexing or tokenization, is the process of converting a sequence of characters into a sequence of tokens. Tokens are the smallest meaningful units in a programming language, such as keywords, identifiers, literals, and operators. Lexical analysis is the first phase of the compiler or interpreter, and it's crucial for parsing and understanding the code.
 
 #include <stdio.h>
 #include <ctype.h>
