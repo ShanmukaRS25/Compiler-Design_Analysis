@@ -4,7 +4,7 @@ Lexical analysis, also known as lexing or tokenization, is the process of conver
 #include <ctype.h>
 #include <string.h>
 
-// Token types
+
 typedef enum {
     TOKEN_INT,
     TOKEN_FLOAT,
